@@ -1,0 +1,118 @@
+.dropbtn {
+  /* background-color: #04AA6D;
+    color: white;
+    padding: 16px; */
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown {
+  /* position: relative; */
+  display: inline-block;
+  float: inline-end;
+}
+.dropdown button{
+ color: #8292b4;
+}
+
+ Button:hover{
+  text-decoration: 5px solid #ff7555 underline;
+  text-underline-offset: 0.2rem;
+
+  
+}
+ 
+.dropdowncontent {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 30rem;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  right: 30%;
+  top: 4rem;
+}
+
+.dropdowncontent a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+
+
+.dropdown:hover .dropdowncontent {
+  display: block;
+}
+
+/* .dropdown:hover .dropbtn {background-color: #3e8e41;} */
+
+.login Button {
+  border: 1px solid #457eff;
+  color: #457eff;
+  background-color: white;
+  font-size: medium;
+  font-weight: 700;
+  border-radius: 1.5rem;
+  padding: 0.5rem;
+  width: 5rem;
+}
+.register Button {
+  border: 1px solid #ff7555;
+  color: white;
+  background-color: #ff7555;
+  font-size: medium;
+  font-weight: 700;
+  border-radius: 1.5rem;
+  padding: 0.5rem;
+  width: 7rem;
+}
+
+.vl {
+  border-left: 1px solid grey;
+  height: 2rem;
+  margin: 1rem;
+}
+
+.login Button:hover{
+  
+  text-decoration: none;
+}
+
+.dropdownE {
+  position: relative;
+  display: inline-block;
+  float: inline-end;
+  top: 0.3rem;
+  
+}
+.dropdownE button{
+  color: #445578;
+  
+}
+
+.dropdowncontentE {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 20rem;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  right: 0;
+  top: 2rem;
+}
+
+.dropdowncontentE a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+
+
+.dropdownE:hover .dropdowncontentE {
+  display: block;
+  
+}

@@ -1,0 +1,12 @@
+.vl {
+  border-left: 2px solid green;
+  height: auto;
+  margin: 1rem;
+}
+.spa {
+  font-size: smaller;
+  font-weight: 200;
+}
+.lab {
+  font-size: smaller;
+}

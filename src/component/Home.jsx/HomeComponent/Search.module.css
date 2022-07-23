@@ -1,0 +1,99 @@
+
+
+.tet{
+    font-size: 17px;
+    line-height: 24px;
+    color: #8292b4;
+    font-family: "Inter";
+    
+}
+
+.tit{
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 50px;
+    color: #1b2437;
+    margin-bottom: 6px;
+    font-family: "Roboto Slab";
+}
+.qsb{
+    display: flex;
+    align-items: center;
+    padding: 9px 9px 9px 24px;
+    background: #fff;
+    border: 1.26923px solid #eaf1f5;
+    box-sizing: border-box;
+    box-shadow: 0 4px 12px rgb(86 141 187 / 12%);
+    border-radius: 100px;
+    margin-top: 1rem;
+    width: 995.7;
+}
+
+.searchIcon{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+}
+.inputbox{
+    border: none;
+}
+.input{
+    font-size: 15px;
+    line-height: 22px;
+    font-family: "Inter";
+    color: #1b2437;
+    font-weight: 400;
+    border: none;
+    flex-grow: 1;
+    width: 240px;
+    min-width: 145px;
+    padding: 8px 0;
+}
+.pipe{
+    background: #eaf1f5;
+    border-radius: 2.53846px;
+    width: 1px;
+    height: 28px;
+}
+
+
+.sele{
+    width: 10rem;
+    height: 2rem;
+    border: none;
+    color: #1b2437;
+    font-size: 15px;
+    line-height: 22px;
+    font-family: "Inter";
+    box-sizing: border-box;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    
+    
+}
+
+.seldiv{
+    margin-left: 8px;
+    margin-right: 18px;
+}
+
+.inputbo{
+    width: 240px;
+    height: 46;
+    margin-left: 2rem;
+}
+.sub{
+    padding: 9px 28px;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 26px;
+    background: #457eff;
+    box-shadow: 0 5.07692px 12.6923px rgb(69 126 255 / 10%);
+    border-radius: 100px;
+    color: #fff;
+    cursor: pointer;
+}
+
+/* --------------------------------------------------------------Slider----------------------------- */

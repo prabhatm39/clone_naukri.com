@@ -1,0 +1,67 @@
+{
+    "data": [{
+        "id": 1,
+        "image": "https://static.naukimg.com/s/0/0/i/trending-naukri/remote.svg",
+        "title": "Galen",
+        "salary": "20-846-7054"
+      }, {
+        "id": 2,
+        "image": "https://static.naukimg.com/s/0/0/i/trending-naukri/mnc.svg",
+        "title": "Sybyl",
+        "salary": "52-727-0688"
+      }, {
+        "id": 3,
+        "image": "https://static.naukimg.com/s/0/0/i/trending-naukri/sales.svg",
+        "title": "Corene",
+        "salary": "43-221-5973"
+      }, {
+        "id": 4,
+        "image": "https://static.naukimg.com/s/0/0/i/trending-naukri/temporary-wfh.svg",
+        "title": "Melony",
+        "salary": "20-530-5634"
+      }, {
+        "id": 5,
+        "image": "https://robohash.org/remnecessitatibusinventore.png?size=50x50&set=set1",
+        "title": "Bentlee",
+        "salary": "56-302-3416"
+      }, {
+        "id": 6,
+        "image": "https://robohash.org/quisquamvoluptatemvel.png?size=50x50&set=set1",
+        "title": "Rena",
+        "salary": "76-079-4693"
+      }, {
+        "id": 7,
+        "image": "https://static.naukimg.com/s/0/0/i/trending-naukri/analytics.svg",
+        "title": "Ax",
+        "salary": "00-102-6084"
+      }, {
+        "id": 8,
+        "image": "https://static.naukimg.com/s/0/0/i/trending-naukri/startup.svg",
+        "title": "Wendell",
+        "salary": "05-767-1126"
+      }, {
+        "id": 9,
+        "image": "https://static.naukimg.com/s/0/0/i/trending-naukri/hr.svg",
+        "title": "Ailina",
+        "salary": "21-002-8574"
+      }, {
+        "id": 10,
+        "image": "https://static.naukimg.com/s/0/0/i/trending-naukri/fortune-500.svg",
+        "title": "Kassie",
+        "salary": "14-525-6872"
+      },
+      {
+        "id": 10,
+        "image": "https://static.naukimg.com/s/0/0/i/trending-naukri/fortune-500.svg",
+        "title": "Kassie",
+        "salary": "14-525-6872"
+      },
+      {
+        "id": 10,
+        "image": "https://static.naukimg.com/s/0/0/i/trending-naukri/fortune-500.svg",
+        "title": "Kassie",
+        "salary": "14-525-6872"
+      }
+    ]
+      
+}

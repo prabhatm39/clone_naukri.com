@@ -1,0 +1,64 @@
+{
+    "data" : [{
+        "id": 1,
+        "name": "Kirsteni",
+        "dec": "Merrili",
+        "rate": "0.8.3",
+        "img": "https://img.naukimg.com/logo_images/groups/v2/2436002.gif"
+      }, {
+        "id": 2,
+        "name": "Jelene",
+        "dec": "Juditha",
+        "rate": "0.88",
+        "img": "https://img.naukimg.com/logo_images/groups/v2/41608.gif"
+      }, {
+        "id": 3,
+        "name": "Harlene",
+        "dec": "Sasha",
+        "rate": "3.6",
+        "img": "https://img.naukimg.com/logo_images/groups/v2/44512.gif"
+      }, {
+        "id": 4,
+        "name": "Rozelle",
+        "dec": "Elsbeth",
+        "rate": "0.71",
+        "img": "https://img.naukimg.com/logo_images/groups/v2/1288.gif"
+      }, {
+        "id": 5,
+        "name": "Redford",
+        "dec": "Ingemar",
+        "rate": "8.2.3",
+        "img": "https://img.naukimg.com/logo_images/groups/v2/1186200.gif"
+      }, {
+        "id": 6,
+        "name": "Mill",
+        "dec": "Kit",
+        "rate": "0.55",
+        "img": "https://img.naukimg.com/logo_images/groups/v2/42932.gif"
+      }, {
+        "id": 7,
+        "name": "Laetitia",
+        "dec": "Stirling",
+        "rate": "0.1.9",
+        "img": "https://img.naukimg.com/logo_images/groups/v2/4654342.gif"
+      }, {
+        "id": 8,
+        "name": "Cindee",
+        "dec": "Ax",
+        "rate": "8.6.1",
+        "img": "https://img.naukimg.com/logo_images/groups/v2/419316.gif"
+      }, {
+        "id": 9,
+        "name": "Myranda",
+        "dec": "Sandra",
+        "rate": "0.9.5",
+        "img": "https://img.naukimg.com/logo_images/groups/v2/2483944.gif"
+      }, {
+        "id": 10,
+        "name": "Tory",
+        "dec": "Phyllida",
+        "rate": "0.2.1",
+        "img": "https://img.naukimg.com/logo_images/groups/v2/1744734.gif"
+      }]
+      
+}

@@ -37,8 +37,7 @@ export const Comp = () => {
             <span className={style.spa}>by </span>{" "}
             <img
               src="https://static.naukimg.com/s/0/0/i/ambitionBoxLogo.png"
-              height="15rem"
-              width="15rem"
+              className={style.img}
             />{" "}
             Ambitionbox
           </label>

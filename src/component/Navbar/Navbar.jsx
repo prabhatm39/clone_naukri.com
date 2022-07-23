@@ -8,10 +8,22 @@ import styles from "./Navbar.module.css";
 import { Icon } from '@chakra-ui/react';
 import { ChevronDownIcon} from "@chakra-ui/icons";
 import { Employ } from "../Dropdown/Employ";
+import {useNavigate} from "react-router-dom";
+
+
 
 
 
 export const Navbar = () => {
+  const natigate = useNavigate();
+
+  function handelN() {
+    natigate("/login")
+  }
+  
+  function handelR() {
+    natigate("/register")
+  }
   return (
     <Box>
       <Flex justifyContent="space-between" margin="1.5rem">
@@ -69,10 +81,13 @@ export const Navbar = () => {
         <Box>
           <Flex gap="1rem">
             <Box className={styles.login}>
-              <Button>Login</Button>
+              <Button onClick={handelN}>Login</Button>
+           
+
+
             </Box>
             <Box className={styles.register}>
-              <Button>Register</Button>
+              <Button onClick={handelR}>Register</Button>
             </Box>
           </Flex>
         </Box>

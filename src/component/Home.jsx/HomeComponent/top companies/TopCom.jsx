@@ -45,13 +45,13 @@ export const TopCom = () => {
   return (
     <div className={styles.caraousel}>
       <div className={styles.caraouselInfo}>
-        <h2>Trending on Naukri today</h2>
+        <h2>Explore top companies hiring now</h2>
       </div>
       <Slider
         dots={false}
         slidesToShow={5}
         slidesToScroll={5}
-        autoplay={true}
+        autoplay={false}
         nextArrow={<NextArrow />}
         prevArrow={<PrevArrow />}
         responsive={[
